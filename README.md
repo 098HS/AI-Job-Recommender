@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Job Recommender
 
 An intelligent job recommendation system that analyzes your resume and suggests job opportunities based on your skills and experience.
@@ -98,3 +99,6 @@ MIT License - feel free to use this project for your own purposes.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+=======
+# AI-Job-Recommender
+>>>>>>> caea55721f6bda780cdf8f50370101f2878bbe4c
